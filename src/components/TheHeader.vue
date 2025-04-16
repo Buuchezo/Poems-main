@@ -70,6 +70,7 @@ export default defineComponent({
   border-bottom: 6px solid #bcccdc;
   font-size: 1rem;
   position: relative;
+  /* position: relative; */
 }
 
 h1 {
